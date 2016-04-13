@@ -72,7 +72,7 @@
             <span class="sr-only">Toggle navigation</span>
             <i id='navicon' class="fa fa-chevron-up fa-chevron-down"></i>
         </button>
-        <a class="navbar-brand" href="#intro">Very Deep into the Sky: the movie</a>
+        <a class="navbar-brand" href="#intro">Deep into the Sky: the movie</a>
     </div>
     <div class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav">
